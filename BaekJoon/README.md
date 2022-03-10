@@ -7,3 +7,5 @@
 - 1012번 [유기농 배추](https://www.acmicpc.net/problem/1012) - BFS
 - 1260번 [DFS와 BFS](https://www.acmicpc.net/problem/1260) - 탐색
 - 1389번 [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) - 플로이드 워셀
+- 1541번 [잃어버린 괄호](https://www.acmicpc.net/problem/1541) - 파싱
+- 1620번 [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) - 해시
