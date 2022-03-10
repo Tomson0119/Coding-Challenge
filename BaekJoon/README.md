@@ -6,3 +6,4 @@
 - 10989번 [수 정렬하기 3](https://www.acmicpc.net/problem/10989) - 정렬
 - 1012번 [유기농 배추](https://www.acmicpc.net/problem/1012) - BFS
 - 1260번 [DFS와 BFS](https://www.acmicpc.net/problem/1260) - 탐색
+- 1389번 [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) - 플로이드 워셀
