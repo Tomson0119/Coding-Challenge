@@ -10,3 +10,5 @@
 - 1541번 [잃어버린 괄호](https://www.acmicpc.net/problem/1541) - 파싱
 - 1620번 [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) - 해시
 - 1676번 [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) - 큰 수 연산
+- 1697번 [숨바꼭질](https://www.acmicpc.net/problem/1697) - BFS
+- 1780번 [종이의 개수](https://www.acmicpc.net/problem/1780) - BFS
