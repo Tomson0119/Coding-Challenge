@@ -12,3 +12,5 @@
 - 1676번 [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) - 큰 수 연산
 - 1697번 [숨바꼭질](https://www.acmicpc.net/problem/1697) - BFS
 - 1780번 [종이의 개수](https://www.acmicpc.net/problem/1780) - BFS
+- 1927번 [최소 힙](https://www.acmicpc.net/problem/1927) - 최소 힙
+- 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992) - 재귀
