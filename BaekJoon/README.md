@@ -15,3 +15,4 @@
 - 1927번 [최소 힙](https://www.acmicpc.net/problem/1927) - 최소 힙
 - 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992) - 재귀
 - 2178번 [미로 탐색](https://www.acmicpc.net/problem/2178) - BFS
+- 2606번 [바이러스](https://www.acmicpc.net/problem/2606) - BFS
