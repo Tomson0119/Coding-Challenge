@@ -17,3 +17,4 @@
 - 2178번 [미로 탐색](https://www.acmicpc.net/problem/2178) - BFS
 - 2606번 [바이러스](https://www.acmicpc.net/problem/2606) - BFS
 - 2630번 [색종이 만들기](https://www.acmicpc.net/problem/2630) - 재귀
+- 2667번 [단지번호붙이기](https://www.acmicpc.net/problem/2667) - BFS
