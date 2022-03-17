@@ -18,3 +18,6 @@
 - 2606번 [바이러스](https://www.acmicpc.net/problem/2606) - BFS
 - 2630번 [색종이 만들기](https://www.acmicpc.net/problem/2630) - 재귀
 - 2667번 [단지번호붙이기](https://www.acmicpc.net/problem/2667) - BFS
+
+## Gold
+- 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
