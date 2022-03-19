@@ -21,6 +21,7 @@
 - 9375번 [패션왕 신해빈](https://www.acmicpc.net/problem/9375) - 수학
 - 9461번 [파도반 수열](https://www.acmicpc.net/problem/9461) - DP
 - 11047번 [동전 0](https://www.acmicpc.net/problem/11047) - Greedy
+- 11279번 [최대 힙](https://www.acmicpc.net/problem/11279) - 최대 힙
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
