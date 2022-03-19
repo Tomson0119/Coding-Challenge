@@ -19,6 +19,6 @@
 - 2630번 [색종이 만들기](https://www.acmicpc.net/problem/2630) - 재귀
 - 2667번 [단지번호붙이기](https://www.acmicpc.net/problem/2667) - BFS
 - 9375번 [패션왕 신해빈](https://www.acmicpc.net/problem/9375) - 수학
-
+- 9461번 [파도반 수열](https://www.acmicpc.net/problem/9461) - DP
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
