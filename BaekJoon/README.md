@@ -26,6 +26,7 @@
 - 11399번 [ATM](https://www.acmicpc.net/problem/11399) - 정렬
 - 11403번 [경로 찾기](https://www.acmicpc.net/problem/11403) - 플로이드 워셸
 - 11659번 [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) - 수학
+- 11723번 [집합](https://www.acmicpc.net/problem/11723) - 구현
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
