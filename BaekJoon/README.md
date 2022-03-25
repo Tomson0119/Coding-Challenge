@@ -30,6 +30,7 @@
 - 11724번 [연결 요소의 개수](https://www.acmicpc.net/problem/11724) - DFS
 - 17219번 [비밀번호 찾기](https://www.acmicpc.net/problem/17219) - 해시
 - 1074번 [Z](https://www.acmicpc.net/problem/1074) - 분할정복
+- 5525번 [IOIOI](https://www.acmicpc.net/problem/5525) - 문자열
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
