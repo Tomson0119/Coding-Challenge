@@ -30,8 +30,9 @@
 - 11724번 [연결 요소의 개수](https://www.acmicpc.net/problem/11724) - DFS
 - 17219번 [비밀번호 찾기](https://www.acmicpc.net/problem/17219) - 해시
 - 1074번 [Z](https://www.acmicpc.net/problem/1074) - 분할정복
-- 1107번 [리모컨](https://www.acmicpc.net/problem/1107) - 브루트포스
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
 - 10026번 [적록색약](https://www.acmicpc.net/problem/10026) - BFS
+- 1107번 [리모컨](https://www.acmicpc.net/problem/1107) - 브루트포스
+- 5430번 [AC](https://www.acmicpc.net/problem/5430) - 파싱, 구현
