@@ -37,3 +37,5 @@
 - 10026번 [적록색약](https://www.acmicpc.net/problem/10026) - BFS
 - 1107번 [리모컨](https://www.acmicpc.net/problem/1107) - 브루트포스
 - 5430번 [AC](https://www.acmicpc.net/problem/5430) - 파싱, 구현
+- 16928번 [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) - BFS
+- 7662번 [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) - 힙
