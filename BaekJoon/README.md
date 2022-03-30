@@ -40,3 +40,4 @@
 - 16928번 [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) - BFS
 - 7662번 [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) - 힙
 - 9019번 [DSLR](https://www.acmicpc.net/problem/9019) - BFS
+- 14500번 [테트로미노](https://www.acmicpc.net/problem/14500) - 브루트포스
