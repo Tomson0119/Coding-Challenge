@@ -33,6 +33,7 @@
 - 5525번 [IOIOI](https://www.acmicpc.net/problem/5525) - 문자열
 - 6064번 [카잉 달력](https://www.acmicpc.net/problem/6064) - 수학
 - 11727번 [2xn 타일링 2](https://www.acmicpc.net/problem/11727) - DP
+- 18870번 [좌표 압축](https://www.acmicpc.net/problem/18870) - 정렬
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
