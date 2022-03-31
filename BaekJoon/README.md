@@ -32,6 +32,7 @@
 - 1074번 [Z](https://www.acmicpc.net/problem/1074) - 분할정복
 - 5525번 [IOIOI](https://www.acmicpc.net/problem/5525) - 문자열
 - 6064번 [카잉 달력](https://www.acmicpc.net/problem/6064) - 수학
+- 11727번 [2xn 타일링 2](https://www.acmicpc.net/problem/11727) - DP
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
