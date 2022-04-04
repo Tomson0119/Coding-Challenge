@@ -46,3 +46,4 @@
 - 9019번 [DSLR](https://www.acmicpc.net/problem/9019) - BFS
 - 14500번 [테트로미노](https://www.acmicpc.net/problem/14500) - 브루트포스
 - 16236번 [아기 상어](https://www.acmicpc.net/problem/16236) - BFS, 구현
+- 1043번 [거짓말](https://www.acmicpc.net/problem/1043) - 그래프
