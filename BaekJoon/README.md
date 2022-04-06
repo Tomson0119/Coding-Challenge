@@ -35,6 +35,7 @@
 - 11727번 [2xn 타일링 2](https://www.acmicpc.net/problem/11727) - DP
 - 18870번 [좌표 압축](https://www.acmicpc.net/problem/18870) - 정렬
 - 17626번 [Four Squares](https://www.acmicpc.net/problem/17626) - DP
+- 1263번 [시간 관리](https://www.acmicpc.net/problem/1263) - 그리디
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
