@@ -49,3 +49,4 @@
 - 16236번 [아기 상어](https://www.acmicpc.net/problem/16236) - BFS, 구현
 - 1043번 [거짓말](https://www.acmicpc.net/problem/1043) - 그래프
 - 1238번 [파티](https://www.acmicpc.net/problem/1238) - 다익스트라
+- 1916번 [최소비용 구하기](https://www.acmicpc.net/problem/1916) - 다익스트라
