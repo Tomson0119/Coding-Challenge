@@ -52,3 +52,4 @@
 - 1238번 [파티](https://www.acmicpc.net/problem/1238) - 다익스트라
 - 1916번 [최소비용 구하기](https://www.acmicpc.net/problem/1916) - 다익스트라
 - 1967번 [트리의 지름](https://www.acmicpc.net/problem/1967) - 트리, 탐색
+- 2096번 [내려가기](https://www.acmicpc.net/problem/2096) - DP
