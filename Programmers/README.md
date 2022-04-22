@@ -9,3 +9,4 @@
 - [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) - 이분탐색
 - [모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503) - DFS
 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) - DP
+- [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) - 이분탐색
