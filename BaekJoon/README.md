@@ -54,3 +54,4 @@
 - 1967번 [트리의 지름](https://www.acmicpc.net/problem/1967) - 트리, 탐색
 - 2096번 [내려가기](https://www.acmicpc.net/problem/2096) - DP
 - 2206번 [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - 탐색
+- 2448번 [별 찍기 - 11](https://www.acmicpc.net/problem/2448) - 재귀
