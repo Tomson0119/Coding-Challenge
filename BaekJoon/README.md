@@ -37,6 +37,7 @@
 - 17626번 [Four Squares](https://www.acmicpc.net/problem/17626) - DP
 - 1263번 [시간 관리](https://www.acmicpc.net/problem/1263) - 그리디
 - 1991번 [트리 순회](https://www.acmicpc.net/problem/1991) - 트리
+- 9465번 [스티커](https://www.acmicpc.net/problem/9465) - DP
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
