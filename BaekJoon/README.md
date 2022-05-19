@@ -58,3 +58,4 @@
 - 2206번 [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - 탐색
 - 2448번 [별 찍기 - 11](https://www.acmicpc.net/problem/2448) - 재귀
 - 11779번 [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) - 다익스트라
+- 11404번 [플로이드](https://www.acmicpc.net/problem/11404) - 플로이드 워쉘
