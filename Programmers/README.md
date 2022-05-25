@@ -12,3 +12,4 @@
 - [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) - 이분탐색
 - [리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/1836) - BFS
 - [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303) - LinkedList
+- [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) - DP
