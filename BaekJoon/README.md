@@ -39,6 +39,7 @@
 - 1991번 [트리 순회](https://www.acmicpc.net/problem/1991) - 트리
 - 9465번 [스티커](https://www.acmicpc.net/problem/9465) - DP
 - 11725번 [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) - BFS
+- 15650번 [N과 M (2)](https://www.acmicpc.net/problem/15650) - 백트래킹
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
