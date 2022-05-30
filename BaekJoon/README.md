@@ -45,6 +45,7 @@
 - 15657번 [N과 M (8)](https://www.acmicpc.net/problem/15657) - 백트래킹
 - 15663번 [N과 M (9)](https://www.acmicpc.net/problem/15663) - 백트래킹
 - 15666번 [N과 M (12)](https://www.acmicpc.net/problem/15666) - 백트래킹
+- 16953번 [A -> B](https://www.acmicpc.net/problem/16953) - BFS
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
