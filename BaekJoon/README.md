@@ -47,6 +47,7 @@
 - 15666번 [N과 M (12)](https://www.acmicpc.net/problem/15666) - 백트래킹
 - 16953번 [A -> B](https://www.acmicpc.net/problem/16953) - BFS
 - 11660번 [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) - DP
+- 1629번 [곱셈](https://www.acmicpc.net/problem/1629) - 수학, 분할정복
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
