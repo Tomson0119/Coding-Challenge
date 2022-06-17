@@ -79,3 +79,4 @@
 - 15685번 [드래곤 커브](https://www.acmicpc.net/problem/15685) - 구현
 - 11444번 [피보나치 수 6](https://www.acmicpc.net/problem/11444) - 분할정복, 수학
 - 10830번 [행렬 제곱](https://www.acmicpc.net/problem/10830) - 분할정복, 수학
+- 13172번 [시그마](https://www.acmicpc.net/problem/13172) - 분할정복, 수학
