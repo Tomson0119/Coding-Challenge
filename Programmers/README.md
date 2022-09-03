@@ -3,7 +3,8 @@
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) - 맵
 
 ## Level 2
-- [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) - 맵
+- [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) - DP
+- [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) - DP
 
 ## Level 3
 - [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - DFS
