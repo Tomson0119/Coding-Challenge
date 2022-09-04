@@ -7,6 +7,7 @@
 - [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) - DP
 - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) - 분할정복
 - [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) - 백트래킹
+- [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) - 탐욕법
 
 ## Level 3
 - [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - DFS
