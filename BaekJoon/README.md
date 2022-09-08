@@ -49,6 +49,7 @@
 - 11660번 [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) - DP
 - 1629번 [곱셈](https://www.acmicpc.net/problem/1629) - 수학, 분할정복
 - 2531번 [회전 초밥](https://www.acmicpc.net/problem/2531) - 투 포인터
+- 22233번 [가희와 키워드](https://www.acmicpc.net/problem/22233) - 해시
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
