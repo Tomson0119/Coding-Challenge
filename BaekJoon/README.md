@@ -87,3 +87,4 @@
 - 4485번 [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) - 다익스트라
 - 1253번 [좋다](https://www.acmicpc.net/problem/1253) - 맵
 - 1806번 [부분합](https://www.acmicpc.net/problem/1806) - 누적합, 투 포인터
+- 20055번 [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) - 구현
