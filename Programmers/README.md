@@ -26,3 +26,4 @@
 - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) - 그래프 탐색
 - [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) - 투 포인터 탐색
 - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) - 힙
+- [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) - 수학
