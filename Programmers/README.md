@@ -27,3 +27,4 @@
 - [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) - 투 포인터 탐색
 - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) - 힙
 - [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) - 수학
+- [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) - 탐욕법
