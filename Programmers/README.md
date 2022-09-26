@@ -29,3 +29,4 @@
 - [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) - 수학
 - [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) - 탐욕법
 - [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) - 힙
+- [숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) - 정렬
