@@ -51,6 +51,7 @@
 - 2531번 [회전 초밥](https://www.acmicpc.net/problem/2531) - 투 포인터
 - 22233번 [가희와 키워드](https://www.acmicpc.net/problem/22233) - 해시
 - 1890번 [점프](https://www.acmicpc.net/problem/1890) - DP
+- 2644번 [촌수계산](https://www.acmicpc.net/problem/2644) - BFS
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
