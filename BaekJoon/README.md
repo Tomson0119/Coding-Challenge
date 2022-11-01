@@ -53,6 +53,7 @@
 - 1890번 [점프](https://www.acmicpc.net/problem/1890) - DP
 - 2644번 [촌수계산](https://www.acmicpc.net/problem/2644) - BFS
 - 10815번 [숫자 카드](https://www.acmicpc.net/problem/10815) - 이진탐색
+- 1406번 [에디터](https://www.acmicpc.net/problem/1406) - 연결리스트
 
 ## Gold
 - 7569번 [토마토](https://www.acmicpc.net/problem/7569) - BFS
